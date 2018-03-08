@@ -1,2 +1,5 @@
 # Hello-World
-Tutorial repositary
+
+Hello-there!
+
+I'm here, I like C and C++.
